@@ -1,5 +1,5 @@
 from flask import Flask
-from app.controllers.routes.app import user_route
+from app.controllers.routes.user_routes import user_route
 import os
 
 
